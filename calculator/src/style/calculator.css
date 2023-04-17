@@ -1,0 +1,14 @@
+.calculator_main_Section {
+    margin-top: 5%;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+
+.calculator_main_components {
+    width: 55%;
+    min-width: 250px;
+    max-width: 410px;
+    height: 60%;
+    min-height: 420px;
+    max-height: 500px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}

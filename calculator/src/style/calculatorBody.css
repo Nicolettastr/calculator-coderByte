@@ -1,0 +1,40 @@
+.calculator_body {
+    height: 70%;
+    border-radius: 0 0 0.5rem 0.5rem;
+    background-image: linear-gradient(to right bottom, #030c1a, #000c17, #000b14, #000a11, #01090d);
+}
+
+.calculator_btn_distribution {
+    width: 100%;
+    height: 100%;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    padding: 0.5rem;
+}
+
+.calculator_btn {
+    width: 50px;
+    height: 50px;
+    display: grid;
+    place-content: center;
+    color: white;
+    border: none;
+    border-radius: 0.3rem;
+    background: linear-gradient(to bottom, #020914, #010913, #000911, #00090f, #01090d);
+    cursor: pointer;
+    transition: all 3s;
+}
+
+.special_character {
+    background: radial-gradient(circle, #051937, #001a4a, #001b5c, #00186e, #00117d);
+    transition: all 3s;
+}
+
+.operator {
+    background: radial-gradient(circle, #051937, #03193e, #031945, #07184b, #0e1751);
+    transition: all 3s;
+}
+
+.calculator_btn:hover{
+    background: radial-gradient(circle at 48.7% 44.3%, rgb(30, 144, 231) 0%, rgb(56, 113, 209) 22.9%, rgb(38, 76, 140) 76.7%, rgb(31, 63, 116) 100.2%);
+}
