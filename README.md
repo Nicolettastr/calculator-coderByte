@@ -10,17 +10,21 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-Calculator
+# Calculator
+
 This is a simple calculator program that can perform basic arithmetic operations: addition, subtraction, multiplication, division.
 
-Usage
+# Usage
+
 Enter the first number you want to calculate.
 Choose the arithmetic operation you want to perform (+, -, *, /).
 Enter the second number you want to calculate.
 The program will output the result of the calculation.
 
-Contributing
+# Contributing
+
 If you find any bugs or issues with this program, please feel free to submit an issue or pull request.
 
-License
+# License
+
 This program is licensed under the MIT License - see the LICENSE file for details.
