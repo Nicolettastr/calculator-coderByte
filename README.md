@@ -1,3 +1,5 @@
+![Captura de pantalla (93)](https://user-images.githubusercontent.com/103970504/232617696-4276b7c1-3c9c-4a2b-9d52-66afe2352792.png)
+
 # Getting Started
 
 In the project directory, you can run:
